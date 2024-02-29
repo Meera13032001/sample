@@ -1,2 +1,2 @@
 Hi this is sample file
-Adding one more line
+Removed one lone
